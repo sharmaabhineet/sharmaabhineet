@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Abhineet Sharma 👋                                
+Staff Backend Engineer with 15+ years building distributed systems, microservices, and cloud-native platforms. Currently at [Yieldmo](https://www.yieldmo.com) working on Ad Tech systems.
 
-<!--
-**sharmaabhineet/sharmaabhineet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Tech
+**Languages:** Java · Python
+**Infrastructure:** AWS · Terraform · Docker                                                 
+**Data:** Kafka · PostgreSQL · Redis
+**Domains:** Ad Tech · System Design · API Design
 
-Here are some ideas to get you started:
+## 📝 Writing                                                            
+I write about backend engineering and distributed systems on [Medium](https://medium.com/@sharmaabhineet).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Links
+[Portfolio](https://portfolio.sharmaabhineet.com) · [LinkedIn](https://www.linkedin.com/in/sharmaabhineet/) · [Medium](https://medium.com/@sharmaabhineet)
